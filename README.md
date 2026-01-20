@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m a Full-Stack MERN Developer specializing in building modern, scalable, and automation-ready web applications.<br><br>I help businesses and startups create fast, secure, and user-friendly applications using technologies like React, Next.js, Node.js, MongoDB, and Supabase, along with AI-powered workflows and automation using n8n.
+ I’m a Full-Stack MERN Developer specializing in building modern, scalable, and automation-ready web applications.<br><br>I help businesses and startups create fast, secure, and user-friendly applications using technologies like React, Next.js, Express.js, Node.js, MongoDB, and Supabase, along with AI-powered workflows and automation using n8n.
 
 
 ## 🌐 Socials:
